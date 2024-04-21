@@ -8,14 +8,12 @@ const item = [
     title: "Ramble On",
     img: "https://img.freepik.com/premium-vector/chat-app-logo-sms-messenger-label-design-mobile-app-online-conversation-with-texting-message-ui-design-concept-vector-illustration_172533-1513.jpg",
     description: "Chat App",
-    Demo: "https://www.loom.com/share/fb0969437fdf47fc9a04f6a48a62e33b?sid=f6b0cb00-7e4e-4a71-b537-4395d5171eca",
   },
   {
     id: 2,
     title: "NBA Trivia Game",
     img: "https://icebreakerideas.com/wp-content/uploads/2020/09/Nba-Trivia-e1608679522119.jpg",
     description: "NBA Trivia Game",
-    Demo: "https://www.loom.com/share/46136f9b73544d1e8052b3862a02a40c?sid=34675a10-5c99-42e6-b2fe-7d72495ea50b",
   },
   {
     id: 3,
